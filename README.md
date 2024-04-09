@@ -4,7 +4,7 @@ This is a Python Jupyter notebook for detecting lamellipodia from segmented larv
 
 ## Description
 
-A full description of the theory, aims and methods behind this computational image analysis approach is described in the Joint Dissertation - "_Investigating epithelial-mesenchymal transition in Drosophila larval epithelial cells_".
+A full description of the theory, aims and methods behind this computational image analysis approach is described in the Joint Dissertation - "_Investigating epithelial-mesenchymal transition in_ Drosophila _larval epithelial cells_".
 
 This notebook includes the following sections:
 - Importing packages
