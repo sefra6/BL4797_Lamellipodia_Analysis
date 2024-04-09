@@ -14,9 +14,7 @@ This notebook includes the following sections:
   - Detecting lamellipodia
   - Lamellipodia analysis
 - Code usage
-  - Example 1 (AB150722a)
-  - Example 2 (Lydia_images)
-    - Processing Cellpose segmentations
-    - Visual Analysis
-      - Frame 0-102 (Panels for figures)
-    - Quantitative Analysis
+  - Processing Cellpose segmentations
+  - Visual Analysis
+    - Frame 0-102 (Panels for figures)
+  - Quantitative Analysis
